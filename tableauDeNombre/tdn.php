@@ -9,7 +9,7 @@ echo '<table border>
     <th> Square Root </th>
 </tr>';
 
-/// We re gonna put numbers with a loop.
+/// We re gonna put numbers with a loop
 
 for($i = 1; $i < 11; $i++){
 echo '  <tr>
